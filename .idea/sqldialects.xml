@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/exos/ex1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/exos/ex2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/exos/ex4.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/exos/ex5.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/exos/jointures.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/exos/queries.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/librairie.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions - Complexes.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions - Création et modification de tables.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions - Select sans jointures.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions - Selection avec jointures.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/exos/ex6.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/exos/ex7.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 1 - Création et modification de tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 2 - Select sans jointures.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 4 - Complexes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 5 - Manipulations.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 6 - Procédures stockées.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../corrigé/librairie-solutions 7 - Triggers.sql" dialect="MySQL" />
   </component>
 </project>
